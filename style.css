@@ -1,0 +1,14 @@
+h1 { 
+  font-family : "Times New Roman"; 
+    font-size : 64px; 
+    color : red; }
+
+p { 
+  font-family : Arial; 
+   font-size : 30px; 
+   color : purple; }
+ 
+body {
+
+  background-color: peachpuff;
+}
